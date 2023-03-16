@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa31707f.css",
+    "main.js": "/static/js/main.923cc806.js",
+    "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
+    "static/media/ParentsGuardians.svg": "/static/media/ParentsGuardians.6b61faa75b8b6c3b495df39666bf0378.svg",
+    "static/media/Schools.svg": "/static/media/Schools.2945dfcda6d6986dbb0abd1ee58ad70d.svg",
+    "static/media/bannerImage.svg": "/static/media/bannerImage.0e0e6afa22c2afd1d97ec9749eaab8e1.svg",
+    "static/media/Youth.svg": "/static/media/Youth.4e09f69975d36c4eac17da0e016d8562.svg",
+    "static/media/Notification.svg": "/static/media/Notification.b9d064bd5636de8e32c41288d9a5e664.svg",
+    "static/media/Pulse Check.svg": "/static/media/Pulse Check.3e2e7bb826f0f14eeb7ef0c6df5975f6.svg",
+    "static/media/Sign Up.svg": "/static/media/Sign Up.daa5268df014f2bdaf110490550104cb.svg",
+    "static/media/stanfordPartner.svg": "/static/media/stanfordPartner.5f72f18d06442bee8ede78f1433284fe.svg",
+    "static/media/plugpartner.svg": "/static/media/plugpartner.6ed42dae8cea55d31744e6a9a9761fa8.svg",
+    "static/media/michinganPartner.svg": "/static/media/michinganPartner.eb4cc4f3dec73102c79373356c6243bc.svg",
+    "static/media/venturePartner.svg": "/static/media/venturePartner.39e4e689c6d205f9691dea18b056dcf5.svg",
+    "static/media/Ellipse.svg": "/static/media/Ellipse.5b3823622ed72cb7b84cd7002a5d33e2.svg",
+    "static/media/Arrow 16.svg": "/static/media/Arrow 16.e7da09455112302702b8.svg",
+    "static/media/Support icon.svg": "/static/media/Support icon.59c1cab7f2c75769b338892a29928690.svg",
+    "static/media/instagram.svg": "/static/media/instagram.68a653f6efdfd697df0dbd7c6da4aebf.svg",
+    "static/media/footerLogo.svg": "/static/media/footerLogo.585b0cb2f7cf675a5a48981a703d991a.svg",
+    "static/media/logo.svg": "/static/media/logo.e603e2cd72f01b91e2e382fc7b3d3751.svg",
+    "static/media/Magnifying glass icon.svg": "/static/media/Magnifying glass icon.78eeb223c2a1317bb7f6ba9df0c6ecc3.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/User Icon.svg": "/static/media/User Icon.0ee9bc7fa0ee8fef92b5ad5471edc300.svg",
+    "static/media/Chat icon.svg": "/static/media/Chat icon.bd4bf4661ad8204cb7260ba97aaacaed.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.c8a8e68cf142d0fe40cbb30923ad71ea.svg",
+    "static/media/inputCard.svg": "/static/media/inputCard.6b8e150d43a72b79dfad0e29331f40d8.svg",
+    "index.html": "/index.html",
+    "main.fa31707f.css.map": "/static/css/main.fa31707f.css.map",
+    "main.923cc806.js.map": "/static/js/main.923cc806.js.map",
+    "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa31707f.css",
+    "static/js/main.923cc806.js"
+  ]
+}
